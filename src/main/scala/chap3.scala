@@ -48,6 +48,7 @@ case class Point(x: Int, y: Int)
 object Test {
 
   // TODO: Test 코드로 변경하여 테스트하기
+  //       https://github.com/ahastudio/CodingLife/commit/42512c39c83d523836218b66e1f1bbe74d799fa2 참고
   def main(args: Array[String]) {  
     val list: List[Int] = List(1, 2, 3, 4, 5)
     println(list)
